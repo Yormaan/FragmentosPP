@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrimerParcial</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="volver_al_men">Volver al menú</string>
+    <string name="rights">20130553 - Primer Parcial - Temas Especiales - Octubre 2020</string>
+</resources>
